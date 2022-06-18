@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Tomkov1c
+- 👀 I’m interested in coding
+- 🌱 I’m currently learning c#
+- 📫 How to reach me: https://links.tomkovic.repl.co/
