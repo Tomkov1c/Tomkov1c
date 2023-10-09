@@ -23,6 +23,4 @@ My name is Tom and welcome to my github page. Where my code is opensourced and b
 
 <br>
 
-```
-❌ This file generated over 896 errors.
-```
+```❌ This file generated over 896 errors. ```
