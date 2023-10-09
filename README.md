@@ -15,11 +15,12 @@
 ```
 My name is **Tom** and welcome to my github page. Where my code is *opensourced* ~~and broken one commit later~~.
 - 🏫 I am studying to become a computer technician
-- ⌨️ C++, C#, PHP, JavaScript
+- ⌨️ C++, C#, JavaScript
 - ✏️ HTML, CSS
+- 〰️ Markdown, SQL, Bash, PHP
 <br>
 
-*Ignore the bottom text please🥺.* 
+*Ignore the bottom text please*🥺. 
 
 <br>
 
