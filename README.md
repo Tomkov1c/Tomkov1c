@@ -13,11 +13,13 @@
  '---'   '---'               `'-'  '---'   '---'                                               
 
 ```
-My name is Tom and welcome to my github page. Where my code is opensourced and broken one commit later.
+My name is **Tom** and welcome to my github page. Where my code is *opensourced* ~~and broken one commit later~~.
 - 🏫 I am studying to become a computer technician
 - ⌨️ C++, C#, PHP, JavaScript
 - ✏️ HTML, CSS
-
 <br>
+<br>
+
+---
 
 ```❌ This file generated over 896 errors. ```
