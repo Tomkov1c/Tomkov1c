@@ -19,7 +19,7 @@ My name is **Tom** and welcome to my github page. Where my code is *opensourced*
 - 〰️ Markdown, SQL, Bash, PHP
 <br>
 
-*Ignore the bottom text please*🥺. ***THAT TEXT IS FALSE!!!*** 
+*Ignore the bottom text please*🥺. ***IT'S LYING!!!*** 
 
 <br>
 
