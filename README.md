@@ -1,8 +1,5 @@
 
-     
-
-                                                                                               
-                                                                                               
+```                              
    .        .--.                     .              __.....__                   __.....__      
  .'|        |__|                   .'|          .-''         '.             .-''         '.    
 <  |        .--.               .| <  |         /     .-''"'-.  `. .-,.--.  /     .-''"'-.  `.  
@@ -15,6 +12,7 @@
  | '.    | '.                |   / | '.    | '.                   |_|                          
  '---'   '---'               `'-'  '---'   '---'                                               
 
+```
 My name is Tom and welcome to my github page. Where my code is opensourced and broken one commit later.
 - 🏫 I am studying to become a computer technician
 - ⌨️ C++, C#, PHP, JavaScript
